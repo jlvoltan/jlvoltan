@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 Eu sou formado em Engenharia da Computação pelo Instituto Militar de Engenharia. Durante a graduação desenvolvi um projeto com mais dois colegas na área de reconhecimento facial. Ele recebeu o nome de "Tchau Papeleta de Faltas!", a ideia era que o professor pudesse apurar as faltas da turma com um celular, tirando uma fotografia. Na fotografia teríamos a detecção das faces, seguida pelo reconhecimento ( a quem pertence). As informações eram registradas em um Banco de dados (PostgreSQL), e os alunos poderiam consultar através de uma página web. O projeto foi dividido em 3 módulos, um voltado para o app Android; outro para o trabalho de detecção e reconhecimento facial, escrito em Python e o último com o banco de dados e a interface web.   
+🔭 Eu sou formado em Engenharia da Computação pelo Instituto Militar de Engenharia. Durante a graduação desenvolvi um projeto com mais dois colegas na área de reconhecimento facial. Ele recebeu o nome de "Tchau Papeleta de Faltas!", a ideia era que o professor pudesse apurar as faltas da turma com um celular, tirando uma fotografia. Na fotografia teríamos a detecção das faces, seguida pelo reconhecimento ( a quem pertence). As informações eram registradas em um Banco de dados (PostgreSQL), e os alunos poderiam consultar através de uma página web. O projeto foi dividido em 3 módulos, um voltado para o app Android; outro para o trabalho de detecção e reconhecimento facial, escrito em Python e o último com o banco de dados e a interface web. 
 
-🌱 Atualmente estou fazendo cursos nas áreas de análise de dados e aprendizado de máquinas. 
+🏫 Também sou especialista em CIência de Dados pela Universidade Tecnológica Federal do Paraná (UTFPR).
+
+🌱 Atualmente sou mestrando no Programa de Pós-graduação em Sistemas e Computação do Instituto Militar de Engenharia - IME, Rio de Janeiro (RJ), Brasil.
+
+💻 Minhas áreas de interesse são ciência de dados e aprendizado de máquinas. 
